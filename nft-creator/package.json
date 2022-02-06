@@ -1,0 +1,16 @@
+{
+	"name": "nft-creator",
+	"version": "0.0.1",
+	"description": "Create NFT Collections",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Prototype.NEXT",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.22.0",
+		"chrome-launcher": "^0.14.1",
+		"puppeteer": "^10.4.0"
+	}
+}
